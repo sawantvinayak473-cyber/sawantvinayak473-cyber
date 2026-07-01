@@ -33,9 +33,12 @@ I am currently exploring how systems are built, attacked, and secured in modern 
 ---
 
 ## 💻 Projects
-🔹 PhishNet – Phishing Detection Tool *(in progress)*  
-🔹 AWS S3 Secure Static Website *(coming soon)*  
-🔹 Linux Security Scripts *(coming soon)*  
+
+🔹 PhishNet – AI-Powered Phishing Detection Platform *(in progress)*
+🔹 SentinelShield – Advanced Intrusion Detection & Web Protection System
+🔹 USB Device Control & Monitoring Framework
+🔹 AWS S3 Secure Static Website *(coming soon)*
+🔹 Linux Security Scripts *(coming soon)*
 
 ---
 
